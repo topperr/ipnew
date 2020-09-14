@@ -1,697 +1,102 @@
 #EXTM3U
-#EXTINF:-1,BBB FHD
-http://srvnmtx.top:80/denise/denise/50483
-#EXTINF:-1,BBB HD
-http://srvnmtx.top:80/denise/denise/50482
-#EXTINF:-1,BBB SD
-http://srvnmtx.top:80/denise/denise/50481
-#EXTINF:-1,BBB 2
-http://srvnmtx.top:80/denise/denise/50471
-#EXTINF:-1,BBB 3
-http://srvnmtx.top:80/denise/denise/50477
-#EXTINF:-1,BBB 4
-http://srvnmtx.top:80/denise/denise/50478
-#EXTINF:-1,BBB 5
-http://srvnmtx.top:80/denise/denise/50473
-#EXTINF:-1,BBB 6
-http://srvnmtx.top:80/denise/denise/50474
-#EXTINF:-1,BBB 7
-http://srvnmtx.top:80/denise/denise/50475
-#EXTINF:-1,BBB 8
-http://srvnmtx.top:80/denise/denise/50476
-#EXTINF:-1,BBB 9
-http://srvnmtx.top:80/denise/denise/50479
-#EXTINF:-1,BBB 10
-http://srvnmtx.top:80/denise/denise/50480
-#EXTINF:-1,A&E
-http://srvnmtx.top:80/denise/denise/37029
-#EXTINF:-1,A&E ¹
-http://srvnmtx.top:80/denise/denise/37577
-#EXTINF:-1,A&E HD
-http://srvnmtx.top:80/denise/denise/37219
-#EXTINF:-1,A&E HD ¹
-http://srvnmtx.top:80/denise/denise/37555
-#EXTINF:-1,AMC
-http://srvnmtx.top:80/denise/denise/37043
-#EXTINF:-1,AMC ¹
-http://srvnmtx.top:80/denise/denise/37582
-#EXTINF:-1,AMC HD
-http://srvnmtx.top:80/denise/denise/37132
-#EXTINF:-1,AMC HD ¹
-http://srvnmtx.top:80/denise/denise/37557
-#EXTINF:-1,ANIMAL PLANET
-http://srvnmtx.top:80/denise/denise/37076
-#EXTINF:-1,ANIMAL PLANET ¹
-http://srvnmtx.top:80/denise/denise/37583
-#EXTINF:-1,ANIMAL PLANET HD
-http://srvnmtx.top:80/denise/denise/37133
-#EXTINF:-1,ANIMAL PLANET HD ¹
-http://srvnmtx.top:80/denise/denise/37595
-#EXTINF:-1,ARTE 1
-http://srvnmtx.top:80/denise/denise/37075
-#EXTINF:-1,ARTE 1 HD
-http://srvnmtx.top:80/denise/denise/37134
-#EXTINF:-1,ARTE 1 HD ¹
-http://srvnmtx.top:80/denise/denise/37641
-#EXTINF:-1,AXN
-http://srvnmtx.top:80/denise/denise/37077
-#EXTINF:-1,AXN ¹
-http://srvnmtx.top:80/denise/denise/37578
-#EXTINF:-1,AXN HD
-http://srvnmtx.top:80/denise/denise/37135
-#EXTINF:-1,AXN HD ¹
-http://srvnmtx.top:80/denise/denise/37556
-#EXTINF:-1,BABY TV ¹
-http://srvnmtx.top:80/denise/denise/37598
-#EXTINF:-1,BAND NEWS
-http://srvnmtx.top:80/denise/denise/37104
-#EXTINF:-1,BAND NEWS HD
-http://srvnmtx.top:80/denise/denise/37136
-#EXTINF:-1,BAND
-http://srvnmtx.top:80/denise/denise/37096
-#EXTINF:-1,BAND¹
-http://srvnmtx.top:80/denise/denise/37639
-#EXTINF:-1,BAND HD
-http://srvnmtx.top:80/denise/denise/37220
-#EXTINF:-1,BAND SP  HD¹
-http://srvnmtx.top:80/denise/denise/37635
-#EXTINF:-1,BIS
-http://srvnmtx.top:80/denise/denise/37101
-#EXTINF:-1,BIS  ¹
-http://srvnmtx.top:80/denise/denise/37658
-#EXTINF:-1,BIS HD
-http://srvnmtx.top:80/denise/denise/37221
-#EXTINF:-1,BIS HD ¹
-http://srvnmtx.top:80/denise/denise/37640
-#EXTINF:-1,TV MUNDIAL
-http://srvnmtx.top:80/denise/denise/37662
-#EXTINF:-1,BOOMERANG
-http://srvnmtx.top:80/denise/denise/37056
-#EXTINF:-1,BOOMERANG ¹
-http://srvnmtx.top:80/denise/denise/37601
-#EXTINF:-1,BOOMERANG HD
-http://srvnmtx.top:80/denise/denise/37138
-#EXTINF:-1,BOOMERANG HD ¹
-http://srvnmtx.top:80/denise/denise/37605
-#EXTINF:-1,CANAL BRASIL
-http://srvnmtx.top:80/denise/denise/37105
-#EXTINF:-1,CANAL BRASIL¹
-http://srvnmtx.top:80/denise/denise/37637
-#EXTINF:-1,CANAL BRASIL HD
-http://srvnmtx.top:80/denise/denise/37139
-#EXTINF:-1,CANAL BRASIL HD¹
-http://srvnmtx.top:80/denise/denise/37630
-#EXTINF:-1,CANAL SONY
-http://srvnmtx.top:80/denise/denise/37073
-#EXTINF:-1,CANAL SONY HD
-http://srvnmtx.top:80/denise/denise/37140
-#EXTINF:-1,CANAL SONY HD ¹
-http://srvnmtx.top:80/denise/denise/37554
-#EXTINF:-1,CARTOON NETWORK
-http://srvnmtx.top:80/denise/denise/37041
-#EXTINF:-1,CARTOON NETWORK ¹
-http://srvnmtx.top:80/denise/denise/37602
-#EXTINF:-1,CARTOON NETWORK HD
-http://srvnmtx.top:80/denise/denise/37141
-#EXTINF:-1,CARTOON NETWORK HD ¹
-http://srvnmtx.top:80/denise/denise/37612
-#EXTINF:-1, CINEMAX
-http://srvnmtx.top:80/denise/denise/29705
-#EXTINF:-1,CINEMAX ¹
-http://srvnmtx.top:80/denise/denise/37575
-#EXTINF:-1,CINEMAX HD
-http://srvnmtx.top:80/denise/denise/37222
-#EXTINF:-1,CINEMAX HD ¹
-http://srvnmtx.top:80/denise/denise/37553
-#EXTINF:-1,COMEDY CENTRAL
-http://srvnmtx.top:80/denise/denise/37049
-#EXTINF:-1,COMEDY CENTRAL ¹
-http://srvnmtx.top:80/denise/denise/37660
-#EXTINF:-1,COMEDY CENTRAL HD
-http://srvnmtx.top:80/denise/denise/37143
-#EXTINF:-1,COMEDY CENTRAL HD ¹
-http://srvnmtx.top:80/denise/denise/37643
-#EXTINF:-1,CULTURA
-http://srvnmtx.top:80/denise/denise/37026
-#EXTINF:-1,CULTURA HD
-http://srvnmtx.top:80/denise/denise/37223
-#EXTINF:-1,CURTA!
-http://srvnmtx.top:80/denise/denise/37059
-#EXTINF:-1,CURTA ¹
-http://srvnmtx.top:80/denise/denise/37661
-#EXTINF:-1,CURTA! HD
-http://srvnmtx.top:80/denise/denise/37144
-#EXTINF:-1,DISCOVERY H&H
-http://srvnmtx.top:80/denise/denise/37117
-#EXTINF:-1,DISCOVERY H&H ¹
-http://srvnmtx.top:80/denise/denise/37587
-#EXTINF:-1,DISCOVERY H&H HD
-http://srvnmtx.top:80/denise/denise/37145
-#EXTINF:-1,DISCOVERY H&H HD ¹
-http://srvnmtx.top:80/denise/denise/37590
-#EXTINF:-1,DISCOVERY CHANNEL
-http://srvnmtx.top:80/denise/denise/37024
-#EXTINF:-1,DISCOVERY CHANNEL ¹
-http://srvnmtx.top:80/denise/denise/37586
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://srvnmtx.top:80/denise/denise/37225
-#EXTINF:-1,DISCOVERY CHANNEL HD ¹
-http://srvnmtx.top:80/denise/denise/37589
-#EXTINF:-1,DISNEY CHANNEL
-http://srvnmtx.top:80/denise/denise/37047
-#EXTINF:-1,DISNEY CHANNEL HD
-http://srvnmtx.top:80/denise/denise/37149
-#EXTINF:-1,DISNEY CHANNEL HD ¹
-http://srvnmtx.top:80/denise/denise/37594
-#EXTINF:-1,DISCOVERY CIVILIZATION ¹
-http://srvnmtx.top:80/denise/denise/37585
-#EXTINF:-1,DISCOVERY CIVILIZATION HD ¹
-http://srvnmtx.top:80/denise/denise/37596
-#EXTINF:-1,DISCOVERY KIDS
-http://srvnmtx.top:80/denise/denise/37102
-#EXTINF:-1,DISCOVERY KIDS ¹
-http://srvnmtx.top:80/denise/denise/37600
-#EXTINF:-1,DISCOVERY KIDS HD
-http://srvnmtx.top:80/denise/denise/37226
-#EXTINF:-1,DISCOVERY KIDS HD ¹
-http://srvnmtx.top:80/denise/denise/37606
-#EXTINF:-1,DISCOVERY SCIENCE
-http://srvnmtx.top:80/denise/denise/37020
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://srvnmtx.top:80/denise/denise/37227
-#EXTINF:-1,DISCOVERY SCIENCE HD ¹
-http://srvnmtx.top:80/denise/denise/37591
-#EXTINF:-1,DISCOVERY THEATER
-http://srvnmtx.top:80/denise/denise/37042
-#EXTINF:-1,DISCOVERY THEATER HD
-http://srvnmtx.top:80/denise/denise/37146
-#EXTINF:-1,DISCOVERY THEATER HD ¹
-http://srvnmtx.top:80/denise/denise/37592
-#EXTINF:-1,DISCOVERY TURBO
-http://srvnmtx.top:80/denise/denise/37051
-#EXTINF:-1,DISCOVERY TURBO HD
-http://srvnmtx.top:80/denise/denise/37147
-#EXTINF:-1,DISCOVERY TURBO HD ¹
-http://srvnmtx.top:80/denise/denise/37588
-#EXTINF:-1,DISCOVERY WORLD
-http://srvnmtx.top:80/denise/denise/37036
-#EXTINF:-1,DISCOVERY WORLD HD
-http://srvnmtx.top:80/denise/denise/37148
-#EXTINF:-1,DISCOVERY WORLD HD ¹
-http://srvnmtx.top:80/denise/denise/37593
-#EXTINF:-1,DISNEY JR
-http://srvnmtx.top:80/denise/denise/37044
-#EXTINF:-1,DISNEY JR ¹
-http://srvnmtx.top:80/denise/denise/37603
-#EXTINF:-1,DISNEY JR ¹
-http://srvnmtx.top:80/denise/denise/37599
-#EXTINF:-1,DISNEY JR HD
-http://srvnmtx.top:80/denise/denise/37150
-#EXTINF:-1,DISNEY JR HD ¹
-http://srvnmtx.top:80/denise/denise/37607
-#EXTINF:-1,DISNEY XD HD ¹
-http://srvnmtx.top:80/denise/denise/37611
-#EXTINF:-1,E!
-http://srvnmtx.top:80/denise/denise/37107
-#EXTINF:-1,E! HD
-http://srvnmtx.top:80/denise/denise/37151
-#EXTINF:-1,FASHION TV
-http://srvnmtx.top:80/denise/denise/37034
-#EXTINF:-1,FASHION TV HD
-http://srvnmtx.top:80/denise/denise/37156
-#EXTINF:-1,FASHION TV HD  ¹
-http://srvnmtx.top:80/denise/denise/37644
-#EXTINF:-1,FISH TV
-http://srvnmtx.top:80/denise/denise/37126
-#EXTINF:-1,FISH TV  ¹
-http://srvnmtx.top:80/denise/denise/37683
-#EXTINF:-1,FISH TV HD
-http://srvnmtx.top:80/denise/denise/37157
-#EXTINF:-1,FISH HD ¹
-http://srvnmtx.top:80/denise/denise/37548
-#EXTINF:-1,FOOD NETWORK
-http://srvnmtx.top:80/denise/denise/37115
-#EXTINF:-1,FOOD NETWORK ¹
-http://srvnmtx.top:80/denise/denise/37651
-#EXTINF:-1,FOOD NETWORK HD
-http://srvnmtx.top:80/denise/denise/37228
-#EXTINF:-1,FOOD NETWORK HD ¹
-http://srvnmtx.top:80/denise/denise/37645
-#EXTINF:-1,FOX LIFE
-http://srvnmtx.top:80/denise/denise/37081
-#EXTINF:-1,FOX LIFE ¹
-http://srvnmtx.top:80/denise/denise/37579
-#EXTINF:-1,FOX LIFE HD
-http://srvnmtx.top:80/denise/denise/37159
-#EXTINF:-1,FOX LIFE HD ¹
-http://srvnmtx.top:80/denise/denise/37563
-#EXTINF:-1,FOX PREMIUM 1 
-http://srvnmtx.top:80/denise/denise/37071
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://srvnmtx.top:80/denise/denise/37160
-#EXTINF:-1,FOX PREMIUM 2
-http://srvnmtx.top:80/denise/denise/37070
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://srvnmtx.top:80/denise/denise/37161
-#EXTINF:-1,FOX
-http://srvnmtx.top:80/denise/denise/37069
-#EXTINF:-1,FOX ¹
-http://srvnmtx.top:80/denise/denise/37573
-#EXTINF:-1,FOX HD
-http://srvnmtx.top:80/denise/denise/37158
-#EXTINF:-1,FUTURA
-http://srvnmtx.top:80/denise/denise/37094
-#EXTINF:-1,FX
-http://srvnmtx.top:80/denise/denise/37080
-#EXTINF:-1,FX ¹
-http://srvnmtx.top:80/denise/denise/37580
-#EXTINF:-1,GLOBO BRASILIA  HD
-http://srvnmtx.top:80/denise/denise/40458
-#EXTINF:-1,FX HD
-http://srvnmtx.top:80/denise/denise/37165
-#EXTINF:-1,GLOBO BRASILIA HD
-http://srvnmtx.top:80/denise/denise/37388
-#EXTINF:-1,GLOBO  ES SD
-http://srvnmtx.top:80/denise/denise/37706
-#EXTINF:-1,GLOBO ES HD 
-http://srvnmtx.top:80/denise/denise/27677
-#EXTINF:-1,GLOBO ES FHD
-http://srvnmtx.top:80/denise/denise/40477
-#EXTINF:-1,GLOBO ES H265
-http://srvnmtx.top:80/denise/denise/40478
-#EXTINF:-1,GLOBO NEWS
-http://srvnmtx.top:80/denise/denise/37062
-#EXTINF:-1,GLOBO NEWS ¹
-http://srvnmtx.top:80/denise/denise/27533
-#EXTINF:-1,GLOBO NEWS HD
-http://srvnmtx.top:80/denise/denise/37166
-#EXTINF:-1,GLOBO NEWS HD ¹
-http://srvnmtx.top:80/denise/denise/37681
-#EXTINF:-1,GLOBO RJ HD
-http://srvnmtx.top:80/denise/denise/27537
-#EXTINF:-1,GLOBO SP HD
-http://srvnmtx.top:80/denise/denise/27530
-#EXTINF:-1,GLOOB
-http://srvnmtx.top:80/denise/denise/37099
-#EXTINF:-1,GLOOB ¹
-http://srvnmtx.top:80/denise/denise/37678
-#EXTINF:-1,GLOOB HD
-http://srvnmtx.top:80/denise/denise/37231
-#EXTINF:-1,GLOOB HD ¹
-http://srvnmtx.top:80/denise/denise/37610
-#EXTINF:-1,GNT
-http://srvnmtx.top:80/denise/denise/37093
-#EXTINF:-1,GNT  ¹
-http://srvnmtx.top:80/denise/denise/37656
-#EXTINF:-1,GNT HD
-http://srvnmtx.top:80/denise/denise/37167
-#EXTINF:-1,HBO
-http://srvnmtx.top:80/denise/denise/37119
-#EXTINF:-1,HBO HD
-http://srvnmtx.top:80/denise/denise/37169
-#EXTINF:-1,HBO 2
-http://srvnmtx.top:80/denise/denise/37123
-#EXTINF:-1,HBO 2 ¹
-http://srvnmtx.top:80/denise/denise/37617
-#EXTINF:-1,HBO 2 HD
-http://srvnmtx.top:80/denise/denise/37172
-#EXTINF:-1,HBO FAMILY
-http://srvnmtx.top:80/denise/denise/37118
-#EXTINF:-1,HBO FAMILY HD
-http://srvnmtx.top:80/denise/denise/37168
-#EXTINF:-1,HBO PLUS
-http://srvnmtx.top:80/denise/denise/37122
-#EXTINF:-1,HBO PLUS ¹
-http://srvnmtx.top:80/denise/denise/37618
-#EXTINF:-1,HBO PLUS HD
-http://srvnmtx.top:80/denise/denise/37170
-#EXTINF:-1,HBO PLUS HD ¹
-http://srvnmtx.top:80/denise/denise/37622
-#EXTINF:-1,HBO SIGNATURE
-http://srvnmtx.top:80/denise/denise/37121
-#EXTINF:-1,HBO SIGNATURE HD
-http://srvnmtx.top:80/denise/denise/37171
-#EXTINF:-1,HBO SIGNATURE HD ¹
-http://srvnmtx.top:80/denise/denise/37623
-#EXTINF:-1,HGTV
-http://srvnmtx.top:80/denise/denise/37017
-#EXTINF:-1,HGTV HD
-http://srvnmtx.top:80/denise/denise/37224
-#EXTINF:-1,HISTORY 2
-http://srvnmtx.top:80/denise/denise/37031
-#EXTINF:-1,HISTORY 2 HD
-http://srvnmtx.top:80/denise/denise/37232
-#EXTINF:-1,HISTORY
-http://srvnmtx.top:80/denise/denise/37072
-#EXTINF:-1,HISTORY ¹
-http://srvnmtx.top:80/denise/denise/37584
-#EXTINF:-1,HISTORY HD
-http://srvnmtx.top:80/denise/denise/37173
-#EXTINF:-1,HISTORY HD ¹
-http://srvnmtx.top:80/denise/denise/37675
-#EXTINF:-1,ID
-http://srvnmtx.top:80/denise/denise/37035
-#EXTINF:-1,ID HD
-http://srvnmtx.top:80/denise/denise/37174
-#EXTINF:-1,ID HD ¹
-http://srvnmtx.top:80/denise/denise/37597
-#EXTINF:-1,IDEAL  ¹
-http://srvnmtx.top:80/denise/denise/37652
-#EXTINF:-1,IDEAL TV HD
-http://srvnmtx.top:80/denise/denise/38675
-#EXTINF:-1,LIFETIME
-http://srvnmtx.top:80/denise/denise/37030
-#EXTINF:-1,LIFETIME ¹
-http://srvnmtx.top:80/denise/denise/37568
-#EXTINF:-1,LIFETIME HD
-http://srvnmtx.top:80/denise/denise/37233
-#EXTINF:-1,MAIS GLOBOSAT
-http://srvnmtx.top:80/denise/denise/37677
-#EXTINF:-1,MAIS GLOBOSAT HD
-http://srvnmtx.top:80/denise/denise/37234
-#EXTINF:-1,HBO MUNDI
-http://srvnmtx.top:80/denise/denise/37023
-#EXTINF:-1,HBO MUNDI ¹
-http://srvnmtx.top:80/denise/denise/37581
-#EXTINF:-1,HBO MUNDI
-http://srvnmtx.top:80/denise/denise/37235
-#EXTINF:-1,HBO POP
-http://srvnmtx.top:80/denise/denise/37120
-#EXTINF:-1,HBO POP HD
-http://srvnmtx.top:80/denise/denise/37176
-#EXTINF:-1,HBO EXTREME
-http://srvnmtx.top:80/denise/denise/37095
-#EXTINF:-1,HBO EXTREME ¹
-http://srvnmtx.top:80/denise/denise/37572
-#EXTINF:-1,HBO EXTREME HD
-http://srvnmtx.top:80/denise/denise/37236
-#EXTINF:-1,HBO EXTREME HD ¹
-http://srvnmtx.top:80/denise/denise/37562
-#EXTINF:-1,MEGAPIX
-http://srvnmtx.top:80/denise/denise/37068
-#EXTINF:-1,MEGAPIX  ¹
-http://srvnmtx.top:80/denise/denise/37570
-#EXTINF:-1,MEGAPIX HD
-http://srvnmtx.top:80/denise/denise/37177
-#EXTINF:-1,MEGAPIX HD¹
-http://srvnmtx.top:80/denise/denise/37551
-#EXTINF:-1,MTV
-http://srvnmtx.top:80/denise/denise/37050
-#EXTINF:-1,MTV HD
-http://srvnmtx.top:80/denise/denise/37178
-#EXTINF:-1,MTV HD ¹
-http://srvnmtx.top:80/denise/denise/37648
-#EXTINF:-1,MTV LIVE
-http://srvnmtx.top:80/denise/denise/37032
-#EXTINF:-1,MTV LIVE HD
-http://srvnmtx.top:80/denise/denise/37179
-#EXTINF:-1,MTV LIVE HD  ¹
-http://srvnmtx.top:80/denise/denise/37649
-#EXTINF:-1,MULTISHOW
-http://srvnmtx.top:80/denise/denise/37092
-#EXTINF:-1,MULTISHOW  ¹
-http://srvnmtx.top:80/denise/denise/37655
-#EXTINF:-1,MULTISHOW HD
-http://srvnmtx.top:80/denise/denise/37180
-#EXTINF:-1,MUSIC BOX BRAZIL
-http://srvnmtx.top:80/denise/denise/37057
-#EXTINF:-1,MUSIC BOX ¹
-http://srvnmtx.top:80/denise/denise/37653
-#EXTINF:-1,MUSIC BOX BRAZIL HD
-http://srvnmtx.top:80/denise/denise/37181
-#EXTINF:-1,NATGEO KIDS
-http://srvnmtx.top:80/denise/denise/37091
-#EXTINF:-1,NATGEO KIDS HD
-http://srvnmtx.top:80/denise/denise/37182
-#EXTINF:-1,NATGEO KIDS HD ¹
-http://srvnmtx.top:80/denise/denise/37613
-#EXTINF:-1,NATGEO
-http://srvnmtx.top:80/denise/denise/37079
-#EXTINF:-1,NATGEO HD
-http://srvnmtx.top:80/denise/denise/38664
-#EXTINF:-1,NATGEO HD ¹
-http://srvnmtx.top:80/denise/denise/37183
-#EXTINF:-1,NATGEO WILD
-http://srvnmtx.top:80/denise/denise/37065
-#EXTINF:-1,NATGEO WILD HD
-http://srvnmtx.top:80/denise/denise/37184
-#EXTINF:-1,NATGEO WILD HD ¹
-http://srvnmtx.top:80/denise/denise/37674
-#EXTINF:-1,NHK
-http://srvnmtx.top:80/denise/denise/37131
-#EXTINF:-1,NHK  ¹
-http://srvnmtx.top:80/denise/denise/37654
-#EXTINF:-1,NHK WORLD HD ¹
-http://srvnmtx.top:80/denise/denise/37642
-#EXTINF:-1,NICK JR
-http://srvnmtx.top:80/denise/denise/37066
-#EXTINF:-1,NICK JR ¹
-http://srvnmtx.top:80/denise/denise/37604
-#EXTINF:-1,NICK JR HD
-http://srvnmtx.top:80/denise/denise/37185
-#EXTINF:-1,NICK JR HD ¹
-http://srvnmtx.top:80/denise/denise/37609
-#EXTINF:-1,NICKELODEON
-http://srvnmtx.top:80/denise/denise/37058
-#EXTINF:-1,NICKELODEON HD
-http://srvnmtx.top:80/denise/denise/37186
-#EXTINF:-1,OFF
-http://srvnmtx.top:80/denise/denise/37098
-#EXTINF:-1,OFF HD
-http://srvnmtx.top:80/denise/denise/37237
-#EXTINF:-1,PARAMOUNT
-http://srvnmtx.top:80/denise/denise/37052
-#EXTINF:-1,PARAMOUNT ¹
-http://srvnmtx.top:80/denise/denise/37574
-#EXTINF:-1,PARAMOUNT HD
-http://srvnmtx.top:80/denise/denise/37187
-#EXTINF:-1,PREMIERE CLUBES
-http://srvnmtx.top:80/denise/denise/37088
-#EXTINF:-1,PRIME BOX BRAZIL
-http://srvnmtx.top:80/denise/denise/37054
-#EXTINF:-1,PRIME BOX BRAZIL HD
-http://srvnmtx.top:80/denise/denise/37196
-#EXTINF:-1,PRIME BOX BRAZIL ¹
-http://srvnmtx.top:80/denise/denise/37531
-#EXTINF:-1,PLAY TV  ¹
-http://srvnmtx.top:80/denise/denise/37657
-#EXTINF:-1,PLAY TV HD
-http://srvnmtx.top:80/denise/denise/38658
-#EXTINF:-1, RECORD SP  HD
-http://srvnmtx.top:80/denise/denise/40474
-#EXTINF:-1,RECORD SP HD
-http://srvnmtx.top:80/denise/denise/37704
-#EXTINF:-1,RECORD HD¹
-http://srvnmtx.top:80/denise/denise/37627
-#EXTINF:-1,RECORD RJ HD
-http://srvnmtx.top:80/denise/denise/40785
-#EXTINF:-1,RECORD DF HD
-http://srvnmtx.top:80/denise/denise/37705
-#EXTINF:-1,RECORD CAMPINAS  HD
-http://srvnmtx.top:80/denise/denise/40471
-#EXTINF:-1, RECORD MG  HD
-http://srvnmtx.top:80/denise/denise/40472
-#EXTINF:-1,RECORD NORDESTE  HD
-http://srvnmtx.top:80/denise/denise/40473
-#EXTINF:-1,REDE TV  SD
-http://srvnmtx.top:80/denise/denise/37638
-#EXTINF:-1,REDE VIDA
-http://srvnmtx.top:80/denise/denise/37061
-#EXTINF:-1,REDE VIDA HD
-http://srvnmtx.top:80/denise/denise/37197
-#EXTINF:-1,SBT SP HD
-http://srvnmtx.top:80/denise/denise/37625
-#EXTINF:-1,STUDIO UNIVERSAL
-http://srvnmtx.top:80/denise/denise/37019
-#EXTINF:-1,STUDIO UNIVERSAL ¹
-http://srvnmtx.top:80/denise/denise/37576
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://srvnmtx.top:80/denise/denise/37239
-#EXTINF:-1,SYFY
-http://srvnmtx.top:80/denise/denise/37027
-#EXTINF:-1,SYFY ¹
-http://srvnmtx.top:80/denise/denise/37566
-#EXTINF:-1,SYFY HD
-http://srvnmtx.top:80/denise/denise/37240
-#EXTINF:-1,SYFY HD ¹
-http://srvnmtx.top:80/denise/denise/37550
-#EXTINF:-1,TBS
-http://srvnmtx.top:80/denise/denise/37040
-#EXTINF:-1,TBS ¹
-http://srvnmtx.top:80/denise/denise/37567
-#EXTINF:-1,TBS HD
-http://srvnmtx.top:80/denise/denise/37203
-#EXTINF:-1,TCM ¹
-http://srvnmtx.top:80/denise/denise/37569
-#EXTINF:-1,TELECINE ACTION
-http://srvnmtx.top:80/denise/denise/37060
-#EXTINF:-1,TELECINE ACTION ¹
-http://srvnmtx.top:80/denise/denise/37410
-#EXTINF:-1,TELECINE ACTION HD
-http://srvnmtx.top:80/denise/denise/37204
-#EXTINF:-1,TELECINE ACTION HD ¹
-http://srvnmtx.top:80/denise/denise/37402
-#EXTINF:-1,TELECINE CULT
-http://srvnmtx.top:80/denise/denise/37067
-#EXTINF:-1,TELECINE CULT ¹
-http://srvnmtx.top:80/denise/denise/37407
-#EXTINF:-1,TELECINE CULT HD
-http://srvnmtx.top:80/denise/denise/37205
-#EXTINF:-1,TELECINE CULT HD ¹
-http://srvnmtx.top:80/denise/denise/37409
-#EXTINF:-1,TELECINE FUN
-http://srvnmtx.top:80/denise/denise/37082
-#EXTINF:-1,TELECINE FUN ¹
-http://srvnmtx.top:80/denise/denise/37408
-#EXTINF:-1,TELECINE FUN HD
-http://srvnmtx.top:80/denise/denise/37206
-#EXTINF:-1,TELECINE FUN HD ¹
-http://srvnmtx.top:80/denise/denise/37403
-#EXTINF:-1,TELECINE PIPOCA
-http://srvnmtx.top:80/denise/denise/37064
-#EXTINF:-1,TELECINE PIPOCA HD
-http://srvnmtx.top:80/denise/denise/37207
-#EXTINF:-1,TELECINE PIPOCA HD ¹
-http://srvnmtx.top:80/denise/denise/37404
-#EXTINF:-1,TELECINE PREMIUM
-http://srvnmtx.top:80/denise/denise/37116
-#EXTINF:-1,TELECINE PREMIUM HD
-http://srvnmtx.top:80/denise/denise/37208
-#EXTINF:-1,TELECINE PREMIUM HD ¹
-http://srvnmtx.top:80/denise/denise/37405
-#EXTINF:-1,TELECINE TOUCH
-http://srvnmtx.top:80/denise/denise/37063
-#EXTINF:-1,TELECINE TOUCH HD
-http://srvnmtx.top:80/denise/denise/37209
-#EXTINF:-1,TELECINE TOUCH HD ¹
-http://srvnmtx.top:80/denise/denise/37406
-#EXTINF:-1,TLC
-http://srvnmtx.top:80/denise/denise/38225
-#EXTINF:-1,TLC HD
-http://srvnmtx.top:80/denise/denise/37241
-#EXTINF:-1,TLC HD ¹
-http://srvnmtx.top:80/denise/denise/37561
-#EXTINF:-1,TNT SERIES
-http://srvnmtx.top:80/denise/denise/37039
-#EXTINF:-1,TNT SERIES HD
-http://srvnmtx.top:80/denise/denise/37211
-#EXTINF:-1,TNT SERIES HD ¹
-http://srvnmtx.top:80/denise/denise/37559
-#EXTINF:-1,TOONCAST ¹
-http://srvnmtx.top:80/denise/denise/37565
-#EXTINF:-1,TOONCAST HD ¹
-http://srvnmtx.top:80/denise/denise/37571
-#EXTINF:-1,TRAVEL BOX BRAZIL
-http://srvnmtx.top:80/denise/denise/37033
-#EXTINF:-1,TRAVEL BOX BRAZIL HD
-http://srvnmtx.top:80/denise/denise/37212
-#EXTINF:-1,TV APARECIDA HD
-http://srvnmtx.top:80/denise/denise/27675
-#EXTINF:-1,TV CABO BRANCO HD
-http://srvnmtx.top:80/denise/denise/37015
-#EXTINF:-1,TV NOVO TEMPO  
-http://srvnmtx.top:80/denise/denise/37664
-#EXTINF:-1,TV NOVO TEMPO HD
-http://srvnmtx.top:80/denise/denise/37214
-#EXTINF:-1,TV RA TIM BUM
-http://srvnmtx.top:80/denise/denise/37242
-#EXTINF:-1,TV RA TIM BUM
-http://srvnmtx.top:80/denise/denise/37028
-#EXTINF:-1,TV RATIMBUM HD ¹
-http://srvnmtx.top:80/denise/denise/37615
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://srvnmtx.top:80/denise/denise/37085
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://srvnmtx.top:80/denise/denise/37215
-#EXTINF:-1,VH1
-http://srvnmtx.top:80/denise/denise/37053
-#EXTINF:-1,VH1 HD
-http://srvnmtx.top:80/denise/denise/37216
-#EXTINF:-1,VIVA
-http://srvnmtx.top:80/denise/denise/37084
-#EXTINF:-1,VIVA HD
-http://srvnmtx.top:80/denise/denise/37217
-#EXTINF:-1,WARNER CHANNEL
-http://srvnmtx.top:80/denise/denise/37078
-#EXTINF:-1,WARNER CHANNEL HD
-http://srvnmtx.top:80/denise/denise/37218
-#EXTINF:-1,WARNER CHANNEL HD ¹
-http://srvnmtx.top:80/denise/denise/37558
-#EXTINF:-1,WOOHOO
-http://srvnmtx.top:80/denise/denise/37021
-#EXTINF:-1,WOOHOO HD
-http://srvnmtx.top:80/denise/denise/37243
-#EXTINF:-1,ZOOMO HD ¹
-http://srvnmtx.top:80/denise/denise/37614
-#EXTINF:-1,REDE TV  HD
-http://srvnmtx.top:80/denise/denise/40459
-#EXTINF:-1,GLOBO EPTV RIBEIRÃO PRETO  HD
-http://srvnmtx.top:80/denise/denise/40461
-#EXTINF:-1, GLOBO EPTV SAO CARLOS  HD
-http://srvnmtx.top:80/denise/denise/40462
-#EXTINF:-1, GLOBO INTERNACIONAL  HD
-http://srvnmtx.top:80/denise/denise/40463
-#EXTINF:-1,GLOBO NORDESTE  HD
-http://srvnmtx.top:80/denise/denise/40465
-#EXTINF:-1,GLOBO RJ  HD
-http://srvnmtx.top:80/denise/denise/40467
-#EXTINF:-1,REDE TV  HD
-http://srvnmtx.top:80/denise/denise/40476
-#EXTINF:-1,GLOBO VERDE MARES
-http://srvnmtx.top:80/denise/denise/40551
-#EXTINF:-1,TVIDEONEWS
-http://srvnmtx.top:80/denise/denise/40803
-#EXTINF:-1,GLOBO SP HD ¹
-http://srvnmtx.top:80/denise/denise/41094
-#EXTINF:-1,DAZN BRASIL HD
-http://srvnmtx.top:80/denise/denise/54015
-#EXTINF:-1,DAZN BRASIL 1 HD
-http://srvnmtx.top:80/denise/denise/54016
-#EXTINF:-1,DAZN BRASIL 2 HD
-http://srvnmtx.top:80/denise/denise/54017
-#EXTINF:-1,DAZN BRASIL 3 HD
-http://srvnmtx.top:80/denise/denise/54018
-#EXTINF:-1,RECORD ES FHD
-http://srvnmtx.top:80/denise/denise/45168
-#EXTINF:-1,SBT ES FHD
-http://srvnmtx.top:80/denise/denise/45169
-#EXTINF:-1,Canção Nova SD
-http://srvnmtx.top:80/denise/denise/45849
-#EXTINF:-1,Canção Nova HD
-http://srvnmtx.top:80/denise/denise/45850
-#EXTINF:-1,NSC FLORIANOPOLIS HD
-http://srvnmtx.top:80/denise/denise/46872
-#EXTINF:-1,GLOBO BAHIA
-http://srvnmtx.top:80/denise/denise/48371
-#EXTINF:-1,TV EVANGELIZAR
-http://srvnmtx.top:80/denise/denise/48399
-#EXTINF:-1,RPC TV Globo FHD
-http://srvnmtx.top:80/denise/denise/50492
-#EXTINF:-1,Globo TV Rio Sul HD
-http://srvnmtx.top:80/denise/denise/50493
-#EXTINF:-1,Globo TV Rio Sul FHD
-http://srvnmtx.top:80/denise/denise/50494
-#EXTINF:-1,GLOBO RIO GRANDE DO NORTE HD
-http://srvnmtx.top:80/denise/denise/50495
-#EXTINF:-1,Globo TV Rio Sul SD
-http://srvnmtx.top:80/denise/denise/50496
-#EXTINF:-1,Globo RPC TV SD
-http://srvnmtx.top:80/denise/denise/50497
-#EXTINF:-1,GLOBO ES SD
-http://srvnmtx.top:80/denise/denise/51308
-#EXTINF:-1,COPA NORDESTE 01
-http://srvnmtx.top:80/denise/denise/54330
-#EXTINF:-1,GLOBO SP SD@
-http://srvnmtx.top:80/denise/denise/55275
-#EXTINF:-1,RIT TV
-http://srvnmtx.top:80/denise/denise/55276
-#EXTINF:-1,GLOBO RJ HD@
-http://srvnmtx.top:80/denise/denise/55277
-#EXTINF:-1,GLOBO MG HD@
-http://srvnmtx.top:80/denise/denise/55278
-#EXTINF:-1,GLOBO RJ SD@
-http://srvnmtx.top:80/denise/denise/55279
-#EXTINF:-1,TV TRIBUNA SANTOS SD@
-http://srvnmtx.top:80/denise/denise/55280
-#EXTINF:-1,GLOBO BRASILIA HD@
-http://srvnmtx.top:80/denise/denise/55281
+http://u9in.club:8080/gessica/102030/83514
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zlTgs" group-title="Canais | Filmes e Séries",A&E - HD
+http://u9in.club:8080/gessica/102030/83512
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zlTgs" group-title="Canais | Filmes e Séries",A&E - HD²
+http://u9in.club:8080/gessica/102030/83513
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zlTgs" group-title="Canais | Filmes e Séries",A&E - SD
+http://u9in.club:8080/gessica/102030/83510
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zlTgs" group-title="Canais | Filmes e Séries",A&E - SD²
+http://u9in.club:8080/gessica/102030/83511
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IX60R" group-title="Canais | Filmes e Séries",AMC - FHD
+http://u9in.club:8080/gessica/102030/83519
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IX60R" group-title="Canais | Filmes e Séries",AMC - HD
+http://u9in.club:8080/gessica/102030/83517
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IX60R" group-title="Canais | Filmes e Séries",AMC - HD²
+http://u9in.club:8080/gessica/102030/83518
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IX60R" group-title="Canais | Filmes e Séries",AMC - SD
+http://u9in.club:8080/gessica/102030/83515
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IX60R" group-title="Canais | Filmes e Séries",AMC - SD²
+http://u9in.club:8080/gessica/102030/83516
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SjK2K" group-title="Canais | Documentários",ANIMAL  PLANET - FHD
+http://u9in.club:8080/gessica/102030/82903
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SjK2K" group-title="Canais | Documentários",ANIMAL PLANET - FHD²
+http://u9in.club:8080/gessica/102030/82904
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SjK2K" group-title="Canais | Documentários",ANIMAL PLANET - HD
+http://u9in.club:8080/gessica/102030/82901
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SjK2K" group-title="Canais | Documentários",ANIMAL PLANET - HD²
+http://u9in.club:8080/gessica/102030/82902
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SjK2K" group-title="Canais | Documentários",ANIMAL PLANET - SD
+http://u9in.club:8080/gessica/102030/82899
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Syt7X" group-title="Canais | Documentários",ANIMAL PLANET - SD²
+http://u9in.club:8080/gessica/102030/82900
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SjK2K" group-title="Canais | 4K",ANIMAL PLANET 4K
+http://u9in.club:8080/gessica/102030/72578
+#EXTINF:-1 tvg-logo="http://u1o.xyz/rI14" group-title="Canais | Variedades e Musicais",ARTE 1 - SD
+http://u9in.club:8080/gessica/102030/88698
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PICQt" group-title="Canais | Filmes e Séries",AXN - FHD
+http://u9in.club:8080/gessica/102030/83524
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PICQt" group-title="Canais | Filmes e Séries",AXN - HD
+http://u9in.club:8080/gessica/102030/83522
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PICQt" group-title="Canais | Filmes e Séries",AXN - HD²
+http://u9in.club:8080/gessica/102030/83523
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PICQt" group-title="Canais | Filmes e Séries",AXN - SD
+http://u9in.club:8080/gessica/102030/83520
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PICQt" group-title="Canais | Filmes e Séries",AXN - SD²
+http://u9in.club:8080/gessica/102030/83521
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PICQt" group-title="Canais | Legendados",AXN HD LEG
+http://u9in.club:8080/gessica/102030/73920
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PICQt" group-title="Canais | Legendados",AXN SD LEG
+http://u9in.club:8080/gessica/102030/73919
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PzpMd" group-title="Canais | Infantil",BABY TV - SD
+http://u9in.club:8080/gessica/102030/83438
+#EXTINF:-1 tvg-logo="http://u1o.xyz/PzpMd" group-title="Canais | Infantil",BABY TV - SD ²
+http://u9in.club:8080/gessica/102030/83439
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zyeYB" group-title="Canais | Abertos",BAND - HD
+http://u9in.club:8080/gessica/102030/83648
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IaTG9" group-title="Canais | Abertos",BAND - SD
+http://u9in.club:8080/gessica/102030/83646
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IYndP" group-title="Canais | 4K",BAND 4K  H265 ²
+http://u9in.club:8080/gessica/102030/53891
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vqMtn" group-title="Canais | Notícias ",BAND NEWS - FHD
+http://u9in.club:8080/gessica/102030/83085
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vqMtn" group-title="Canais | Notícias ",BAND NEWS - FHD²
+http://u9in.club:8080/gessica/102030/83086
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vqMtn" group-title="Canais | Notícias ",BAND NEWS - HD
+http://u9in.club:8080/gessica/102030/83083
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vqMtn" group-title="Canais | Notícias ",BAND NEWS - HD²
+http://u9in.club:8080/gessica/102030/83084
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vqMtn" group-title="Canais | Notícias ",BAND NEWS - SD
+http://u9in.club:8080/gessica/102030/83082
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zyeYB" group-title="Canais | Abertos",BAND SP - FHD
+http://u9in.club:8080/gessica/102030/83649
+#EXTINF:-1 tvg-logo="http://u1o.xyz/SnORV" group-title="Canais | Abertos",BAND SP - SD²
+http://u9in.club:8080/gessica/102030/83647
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sa1kc" group-title="Canais | Esportes",BAND SPORTS - FHD
+http://u9in.club:8080/gessica/102030/82840
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sa1kc" group-title="Canais | Esportes",BAND SPORTS - FHD ²
+http://u9in.club:8080/gessica/102030/82841
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sa1kc" group-title="Canais | Esportes",BAND SPORTS - HD
+http://u9in.club:8080/gessica/102030/82838
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sa1kc" group-title="Canais | Esportes",BAND SPORTS - HD ²
+http://u9in.club:8080/gessica/102030/82839
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sa1kc" group-title="Canais | Esportes",BAND SPORTS - SD
+http://u9in.club:8080/gessica/102030/82836
+#EXTINF:-1 tvg-logo="http://u1o.xyz/Sa1kc" group-title="Canais | Esportes",BAND SPORTS - SD ²
+http://u9in.club:8080/gessica/102030/82837
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6nZYz" group-title="Canais | Variedades e Musicais",BIS
+http://u9in.club:8080/gessica/102030/8146
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6nZYz" group-title="Canais | Variedades e Musicais",BIS HD
+http://u9in.club:8080/gessica/102030/8235
+#EXTINF:-1 tvg-logo="http://u1o.xyz/6nZYz" group-title="Canais | Variedades e Musicais",BIS ²
+http://u9in.club:8080/gessica/102030/51989
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IQdnL" group-title="Canais | Infantil",BOOMERANG - HD
+http://u9in.club:8080/gessica/102030/83441
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IQdnL" group-title="Canais | Infantil",BOOMERANG - HD ²
+http://u9in.club:8080/gessica/102030/83442
+#EXTINF:-1 tvg-logo="http://u1o.xyz/IQdnL" group-title="Canais | Infantil",BOOMERANG - SD
+http://u9in.club:8080/gessica/102030/83440
+#EXTINF:-1 tvg-logo="http://u1o.xyz/3k8m" group-title="Canais | Abertos",CANAL BRASIL - FHD²
+http://u9in.club:8080/gessica/102030/83653
+#EXTINF:-1 tvg-logo="http://u1o.xyz/vPSYu" group-title="Canais | Abertos",CANAL BRASIL - HD
+http://u9in.club:8080/gessica/102030/83652
